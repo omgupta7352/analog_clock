@@ -1,7 +1,7 @@
 # Analog Clock
 
 ![ANALOG CLOCK](Dark-mode.png)
-(Light-mode.png)
+![](Light-mode.png)
 
 Sorting visualizer is a web app for visualizing a bunch of different sorting algorithm with the functionality of speed and array size control along with complexity of algorithm (space and time).
 
