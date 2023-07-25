@@ -7,12 +7,10 @@ Sorting visualizer is a web app for visualizing a bunch of different sorting alg
 
 ## FEATURES
 
- - Bubble Sorting
- - Selection Sort
- - Merge Sort
- - Insertion Sort
- - Quick Sort
- - Heapify Sort
+ - Real-time
+ - Dark mode
+ - Light mode
+ - Responsive
 
 ## BROWSER SUPPORT :man_technologist:
 
