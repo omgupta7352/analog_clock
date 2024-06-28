@@ -24,7 +24,7 @@ Welcome to the Analog Clock project! This is a simple yet elegant analog clock b
 
 ## Demo
 
-You can try out the clock live [here](https://example.com/analog_clock).
+You can try out the clock live [here](https://omgupta7352.github.io/analog_clock/).
 
 ## Installation
 
