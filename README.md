@@ -33,7 +33,7 @@ To run the Analog Clock locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/analog_clock.git
+    git clone https://github.com/omgupta7352/analog_clock.git
     ```
 
 2. **Navigate to the project directory:**
